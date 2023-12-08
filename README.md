@@ -1,4 +1,4 @@
-Created this repo to have a redily available basic react app.
+> Created this repo to have a redily available basic react app.
 
 # Getting Started with Create React App
 
